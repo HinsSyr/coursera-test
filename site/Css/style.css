@@ -8,7 +8,6 @@
 
 h1
 {
-
 	margin: 50px;
 	text-align: center;
 
@@ -21,29 +20,36 @@ h1
 	margin-right: 20px;
 	margin-top: 20px;
 	margin-bottom: 20px;
-	background-color: grey;
+	background-color: #34d2eb;
 	color:white;
 	font-family: Arial, Helvetica, sans-serif;
 	border:1px black solid;
+	overflow: auto;
 	
 }
 
 .menu > h2{
-	background-color: blue;
+	background-color: #404f52;
+	border: 2px solid black;
+	font-family: "Comic Sans MS", cursive, sans-serif;
 	text-align: center;
 	margin-left: auto;
 	margin-right: 0px;
 	margin-top: 0px;
 	margin-bottom: 0px;
-	height: 32px;
-	width: 100px;
+	height: 40px;
+	width: 200px;
 
 }
 .menu > p{
+	color: black;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 20px;
+	font-weight: bold;
 	margin-top: 0px;
-	background-color: black;
 	margin-bottom: 0px;
-	height:80%;
+	height:auto;
+
 }
 
 
